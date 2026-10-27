@@ -1,0 +1,2 @@
+"""Course report email example."""
+
